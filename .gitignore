@@ -10,6 +10,19 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Maven
+target
+
+# Allure
+.allure
+
+#IDEA Files
+.idea/*
+!.idea/vcs.xml
+!.idea/icon.png
+*.iml
+*.ipr
+
 # Package Files #
 *.jar
 *.war
