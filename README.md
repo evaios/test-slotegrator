@@ -12,7 +12,7 @@ For testing REST API was used RestAssured framework.
 
 ```mvn allure:serve```
 
-## The second module is api-test-slotegrator
+## The second module is ui-test-slotegrator
 
 For testing UI was used Java + Selenium + Cucumber framework.
 
